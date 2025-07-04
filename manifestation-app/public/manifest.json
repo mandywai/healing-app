@@ -1,0 +1,21 @@
+{
+  "name": "Healing Reflection",
+  "short_name": "HealingApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#94d3ac",
+  "description": "一個療癒自我與記錄顯化能量的反思 App",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
